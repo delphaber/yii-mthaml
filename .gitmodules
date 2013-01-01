@@ -1,0 +1,3 @@
+[submodule "vendors/MtHaml"]
+	path = vendors/MtHaml
+	url = git@github.com:arnaud-lb/MtHaml.git
