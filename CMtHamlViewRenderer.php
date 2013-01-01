@@ -22,7 +22,7 @@
  * @license http://www.yiiframework.com/license/
  */
 
-Yii::setPathOfAlias('MyHaml', Yii::getPathOfAlias('ext.yii-mthaml.vendors.MtHaml.lib.MtHaml'));
+Yii::setPathOfAlias('MtHaml', Yii::getPathOfAlias('ext.yii-mthaml.vendors.MtHaml.lib.MtHaml'));
 
 class CMtHamlViewRenderer extends CViewRenderer
 {
